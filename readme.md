@@ -17,6 +17,7 @@ The graph is a bit messy. Partly due to a small sample size, partly because I do
 ## What I think is going on under the hood
 
 Filing comes in -> sent to validation process -> bad -> returns to user
+
 Filing comes in -> sent to validation process -> good -> proceeds to pipeline that uploads data to the SEC's website.
 
 Upload pipelines:
